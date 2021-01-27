@@ -1,0 +1,28 @@
+{
+  "name": "@fatso83/detective-tsx",
+  "version": "1.0.0",
+  "description": "A tiny wrapper around detective-typescript to enable the same API for TSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatso83/detective-tsx.git"
+  },
+  "keywords": [
+    "detective",
+    "typescript",
+    "tsx",
+    "jsx"
+  ],
+  "author": "Carl-Erik Kopseng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatso83/detective-tsx/issues"
+  },
+  "homepage": "https://github.com/fatso83/detective-tsx#readme",
+  "dependencies": {
+    "detective-typescript": "^6.0.0"
+  }
+}
